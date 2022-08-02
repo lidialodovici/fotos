@@ -1,4 +1,4 @@
-## Curso de Git e github na Vida Real do William Justen
+## Curso de Git e Github na Vida Real do William Justen
 
 Big Picture by HTML5 UP
 html5up.net | @ajlkn
